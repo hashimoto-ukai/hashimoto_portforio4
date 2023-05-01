@@ -67,6 +67,129 @@
     opacity: 0;
   }
   }
+  .l-introduce {
+    width: 100%;
+    background-color: #fffafa;
+  }
+  .l-introduce__container {
+    width: 100%;
+  }
+  .l-introduce__box {
+    width: 700px;
+    padding-top: 140px;
+    margin: 0 auto;
+  }
+  .p-introduce__text {
+    color: #7c7c7c;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  .l-introduce__subBox {
+    margin: 0 auto;
+    width: 700px;
+    padding-bottom: 140px;
+  }
+  .p-introduce__subText {
+    color: #606060;
+    font-size: 22px;
+    margin-top: 40px;
+  }
+  .l-main__topImg {
+    height: 650px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/09/30/02/12/breakfast-2801031_1280.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  .l-main__middleImg {
+    height: 650px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/19/09/22/garden-1208987_1280.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  .l-main__underImg {
+    height: 650px;
+    background-image: url("https://cdn.pixabay.com/photo/2021/01/11/12/23/tea-5908277_1280.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  .l-topics {
+    width: 100%;
+    background-color: #fffafa;
+  }
+  .l-topics__container {
+    max-width: 980px;
+    margin: 0 auto;
+    padding-top: 140px;
+  }
+  .p-topics__top {
+    display: flex;
+    width: 100%;
+    text-decoration: none;
+  }
+  .p-top__img {
+    width: 50%;
+    background-image: url("https://cdn.pixabay.com/photo/2018/02/04/09/09/brushes-3129361_1280.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  .p-top__box {
+    background-color: #ffff;
+    width: 50%;
+  }
+  .p-top__boxContainer {
+    padding: 40px;
+  }
+  .p-top__title {
+    font-size: 17px;
+    color: #7c7c7c;
+    font-weight: bold;
+  }
+  .p-top__text {
+    color: #7c7c7c;
+  }
+  .p-topics__continue {
+    color: #7c7c7c;
+    margin-top: 30px;
+    font-size: 10px;
+  }
+  .l-topics__box {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .p-topics {
+    width: 30%;
+    text-decoration: none;
+  }
+  .p-topics__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2015/05/15/17/16/baking-soda-768950_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+  .p-topics__box {
+    width: 100%;
+  }
+  .p-topics__boxContainer {
+    padding: 40px;
+  }
+  .p-groves__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2015/07/29/04/23/work-gloves-865500_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+  .p-towel__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2016/03/13/14/39/bad-1253889_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+
+
+
 
 
 
