@@ -120,6 +120,9 @@
     max-width: 980px;
     margin: 0 auto;
     padding-top: 140px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px;
   }
   .p-topics__top {
     display: flex;
@@ -155,10 +158,13 @@
   .l-topics__box {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
   }
   .p-topics {
-    width: 30%;
+    width: 31.5%;
     text-decoration: none;
+    background-color: #ffff;
+    margin-top: 100px;
   }
   .p-topics__img {
     width: 100%;
@@ -186,6 +192,80 @@
     background-position: center;
     background-size: cover;
     height: 200px;
+  }
+  .p-pencil__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/23/00/37/art-1851483_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+  .p-goods__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2018/06/02/17/50/forest-3448818_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+  .p-cutlery__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2014/07/31/22/02/restaurant-406972_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+  .p-brush__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2020/05/23/07/25/background-5208364_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+  .p-nife__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2014/01/26/15/12/knife-252227_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+  .p-dishes__img {
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2016/10/24/21/50/plate-1767422_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+  }
+  .l-news {
+    width: 100%;
+    background-color: #ffff;
+  }
+  .l-news__container {
+    margin: auto;
+    max-width: 980px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  .p-news__title {
+    font-size: 25px;
+    font-weight: bold;
+    color: #7c7c7c;
+  }
+  .p-news__subText {
+    color: #7c7c7c;
+  }
+  .p-news__topics {
+    text-decoration: none;
+    color: #7c7c7c;
+    padding-top: 100px;
+  }
+  .p-news__date {
+    margin-top: 40px;
+    margin-bottom: 0;
+    font-size: 17px;
+    font-weight: bold;
+    color: #7c7c7c;
   }
 
 
