@@ -269,6 +269,89 @@
   }
 
 
+  .l-shop {
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg");
+    height: 475px;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .l-store {
+    width: 100%;
+    background-color: #fffafa;
+  }
+  .l-store__container {
+    max-width: 980px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+  }
+  .p-store__title {
+    font-size: 25px;
+    font-weight: bold;
+    color: #7c7c7c;
+    margin: 0;
+  }
+  .p-store__japanBox {
+    padding-top: 50px;
+  }
+  .p-store__lapan {
+    font-size: 23px;
+    color: #7c7c7c;
+  }
+  .p-store__list {
+    color: #7c7c7c;
+  }
+  .p-store__link {
+    text-decoration: none;
+    color: #c0c0c0;
+  }
+  .p-overseas {
+    padding-top: 50px;
+    width: 100%;
+  }
+  .p-overseas__title {
+    font-size: 23px;
+    color: #7c7c7c;
+  }
+  .p-overseas__box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .p-overseas__list {
+    width: 50%;
+  }
+  .p-overseas__name {
+    font-size: 18px;
+    color: #7c7c7c;
+    font-weight: bold;
+  }
+  .p-overseas__where {
+    color: #7c7c7c;
+  }
+  .l-footer {
+    width: 100%;
+    border-color: #ffff;
+  }
+  .l-footer__container {
+    max-width: 980px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+  }
+  .l-footer__link {
+    text-decoration: none;
+    padding-right: 30px;
+    color: #7c7c7c;
+    font-size: 14px;
+    }
 
 
 
