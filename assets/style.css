@@ -492,5 +492,186 @@
       background-position: center;
       background-size: cover;
     }
+    .l-topics {
+      width: 100%;
+      background-color: #fffafa;
+    }
+    .l-topics__container {
+      max-width: 98%;
+      margin: 0 auto;
+      padding-top: 100px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 50px;
+    }
+    .p-topics__top {
+      width: 100%;
+      text-decoration: none;
+    }
+    .p-top__img {
+      width: 100%;
+      display: block;
+      background-image: url("https://cdn.pixabay.com/photo/2018/02/04/09/09/brushes-3129361_1280.jpg");
+      background-size: cover;
+      background-position: center;
+      aspect-ratio: 8/5;
+    }
+    .p-top__box {
+      background-color: #ffff;
+      width: 100%;
+    }
+    .p-top__boxContainer {
+      padding: 25px;
+    }
+    .p-top__title {
+      font-size: 17px;
+      color: #7c7c7c;
+      font-weight: bold;
+      margin: 0;
+      margin-top: 15px;
+    }
+    .p-top__text {
+      color: #7c7c7c;
+      font-size: 13px;
+    }
+    .p-topics__continue {
+      color: #7c7c7c;
+      margin-top: 30px;
+      font-size: 10px;
+    }
+    .p-topics {
+      width: 100%;
+      text-decoration: none;
+      margin-top: 30px;
+    }
+    .l-topics__box {
+      display: contents;
+    }
+    .p-topics__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2015/05/15/17/16/baking-soda-768950_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .p-topics__box {
+      width: 100%;
+      background-color: #ffffff;
+    }
+    .p-topics__boxContainer {
+      padding: 25px;
+      margin-bottom: 30px;
+    }
+    .p-groves__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2015/07/29/04/23/work-gloves-865500_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .p-towel__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2016/03/13/14/39/bad-1253889_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .p-pencil__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2016/11/23/00/37/art-1851483_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .p-goods__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2018/06/02/17/50/forest-3448818_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .p-cutlery__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2014/07/31/22/02/restaurant-406972_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .p-brush__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2020/05/23/07/25/background-5208364_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .p-nife__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2014/01/26/15/12/knife-252227_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .p-dishes__img {
+      width: 100%;
+      background-image: url("https://cdn.pixabay.com/photo/2016/10/24/21/50/plate-1767422_1280.jpg");
+      background-position: center;
+      background-size: cover;
+      display: block;
+      aspect-ratio: 8/5;
+    }
+    .l-news {
+      width: 100%;
+      background-color: #ffff;
+    }
+    .l-news__container {
+      margin: auto;
+      max-width: 98%;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 100px;
+      padding-bottom: 100px;
+    }
+    .p-news__title {
+      font-size: 20px;
+      font-weight: bold;
+      color: #7c7c7c;
+    }
+    .p-news__subText {
+      color: #7c7c7c;
+      font-size: 10px;
+      margin-bottom: 60px;
+    }
+    .p-news__topics {
+      text-decoration: none;
+      color: #7c7c7c;
+      padding-top: 50px;
+    }
+    .p-news__date {
+      margin-top: 30px;
+      margin-bottom: 0;
+      font-size: 12px;
+      font-weight: bold;
+      color: #7c7c7c;
+    }
+    .p-news__text {
+      color: #7c7c7c;
+      font-size: 12px;
+      margin-top: 5px;
 
-}
+    }
+    .l-shop {
+      background-image: url("https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg");
+      height: 357px;
+      background-position: center;
+      background-size: cover;
+    }
+
+  }
