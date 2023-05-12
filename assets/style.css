@@ -673,5 +673,79 @@
       background-position: center;
       background-size: cover;
     }
-
+    .l-store {
+      width: 100%;
+      background-color: #fffafa;
+    }
+    .l-store__container {
+      max-width: 98%;
+      padding-top: 100px;
+      padding-bottom: 100px;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin: auto;
+    }
+    .p-store__title {
+      font-size: 20px;
+      font-weight: bold;
+      color: #7c7c7c;
+    }
+    .p-store__japanBox {
+      padding-top: 50px;
+    }
+    .p-store__lapan {
+      font-size: 20px;
+      color: #7c7c7c;
+    }
+    .p-store__list {
+      color: #7c7c7c;
+      font-size: 14px;
+    }
+    .p-store__link {
+      text-decoration: none;
+      color: #c0c0c0;
+    }
+    .p-overseas {
+      padding-top: 50px;
+      width: 100%;
+    }
+    .p-overseas__title {
+      font-size: 20px;
+      color: #7c7c7c;
+    }
+    .p-overseas__box {
+      display: contents;
+    }
+    .p-overseas__list {
+      width: 100%;
+      margin-top: 60px;
+    }
+    .p-overseas__name {
+      font-size: 15px;
+      font-weight: bold;
+      color: #7c7c7c;
+    }
+    .p-overseas__where {
+      font-size: 13px;
+      color: #7c7c7c;
+      margin-top: 20px;
+    }
+    .l-footer {
+      width: 100%;
+      border-color: #ffff;
+    }
+    .l-footer__container {
+      max-width: 98%;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 150px;
+      padding-bottom: 150px;
+      text-align: center;
+    }
+    .l-footer__link {
+      text-decoration: none;
+      padding-right: 30px;
+      color: #7c7c7c;
+      font-size: 14px;
+      }
   }
