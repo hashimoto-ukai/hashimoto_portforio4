@@ -209,9 +209,7 @@
     margin-top: 30px;
     margin-left: 10px;
   }
-  .triangle:hover {
-    transform: translate(15px,0);
-  }
+
   .l-topics__box {
     display: flex;
     flex-wrap: wrap;
